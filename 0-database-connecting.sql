@@ -1,0 +1,3 @@
+-- Active: 1715338047870@@127.0.0.1@3306@practice
+SHOW CREATE DATABASE practice;
+
