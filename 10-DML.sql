@@ -12,3 +12,6 @@ insert into kailash_team VALUES(1, 'Kailash Kumar',1011);
 insert into kailash_team VALUES(2, 'Aryan Kumar',1012);
 insert into kailash_team VALUES(3, 'Shekhar Kumar',1211);
 insert into kailash_team VALUES(4, 'Mohan Kumar',1011);
+
+--2. UPDATE command
+update student_records.students set first_name='Ravi' where student_id=1;
